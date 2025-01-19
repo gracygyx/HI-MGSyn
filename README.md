@@ -2,10 +2,10 @@
 
 ### Model
 - Framework
-  ![](https://github.com/gracygyx/HI-MGSyn/tree/main/Figures/Framework.jpg)
+  ![](https://github.com/gracygyx/HI-MGSyn/blob/main/Figures/Framework.jpg)
 
 - Interaction-aware attention mechanism
-  ![](https://github.com/gracygyx/HI-MGSyn/tree/main/Figures/Attention.jpg)
+  ![](https://github.com/gracygyx/HI-MGSyn/blob/main/Figures/Attention.jpg)
 
 ### Environment
 
@@ -26,7 +26,7 @@ python main_GDSC2.py
 ### Performance on DrugCombDB and O'Neil datasets
 
 - DrugComb dataset
-  ![](https://github.com/gracygyx/HI-MGSyn/tree/main/Figures/DrugComb.jpg)
+  ![](https://github.com/gracygyx/HI-MGSyn/blob/main/Figures/DrugComb.jpg)
 
 - GDSC^2 dataset
-  ![](https://github.com/gracygyx/HI-MGSyn/tree/main/Figures/GDSC2_result.jpg)
+  ![](https://github.com/gracygyx/HI-MGSyn/blob/main/Figures/GDSC2_result.jpg)
