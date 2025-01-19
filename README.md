@@ -20,6 +20,9 @@ Our program is easy to train and test,  just need to run "main_DrugComb.py" for 
 
 ```
 python main_DrugComb.py
+```
+
+```
 python main_GDSC2.py
 ```
 
