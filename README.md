@@ -2,24 +2,10 @@
 
 ### Model
 - Framework
-  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/framework.jpg)
+  ![](https://github.com/gracygyx/HI-MGSyn/tree/main/Figures/Framework.png)
 
-- Dual-Stage Attention-Enhanced mechanism
-  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/Attention.jpg)
-
-### Data preparation
-
-
-
-- We preprocessed the O'Neil dataset and saved it in npy format,  which can be downloaded from Google drive. 
-
-       https://drive.google.com/drive/folders/1KQU7kKH-MFl2bJhsrLv1ZHxm35Nvhhsf?usp=drive_link
-      
-
-
-
-
-- Place the downloaded npy files in the "DSA-DeepFM" directory.
+- Interaction-aware attention mechanism
+  ![](https://github.com/gracygyx/HI-MGSyn/tree/main/Figures/Attention.png)
 
 ### Environment
 
@@ -30,16 +16,17 @@ pip install -r requirements.txt
 
 ### Train and Test
 
-Our program is easy to train and test,  just need to run "main_DSA_DeepFM_oneil.py". 
+Our program is easy to train and test,  just need to run "main_DrugComb.py" for DrugComb dataset and  "main_GDSC2.py" for GDSC^2 dataset. 
 
 ```
-python main_DSA_DeepFM_oneil.py
+python main_DrugComb.py
+python main_GDSC2.py
 ```
 
 ### Performance on DrugCombDB and O'Neil datasets
 
-- DrugCombDB dataset
-  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/DrugCombDB.jpg)
+- DrugComb dataset
+  ![](https://github.com/gracygyx/HI-MGSyn/tree/main/Figures/DrugComb.png)
 
-- O'Neil dataset
-  ![](https://github.com/gracygyx/DSA-DeepFM/blob/master/pictures/oneil.jpg)
+- GDSC^2 dataset
+  ![](https://github.com/gracygyx/HI-MGSyn/tree/main/Figures/GDSC2_result.png)
